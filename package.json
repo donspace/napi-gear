@@ -1,0 +1,19 @@
+{
+  "name": "napi-gear",
+  "version": "1.0.0",
+  "description": "Node js basic addon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donspace/napi-gear.git"
+  },
+  "author": "Don Rajitha Dissanayake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donspace/napi-gear/issues"
+  },
+  "homepage": "https://github.com/donspace/napi-gear#readme"
+}
